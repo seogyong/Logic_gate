@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Nov  1 02:53:10 2023
+# Process ID: 32463
+# Current directory: /home/jsy/Documents
+# Command line: vivado
+# Log file: /home/jsy/Documents/vivado.log
+# Journal file: /home/jsy/Documents/vivado.jou
+# Running On: Ubuntu22, OS: Linux, CPU Frequency: 2611.210 MHz, CPU Physical cores: 8, Host memory: 8317 MB
+#-----------------------------------------------------------
+start_gui
+open_project /home/jsy/Documents/Logic_gate.xpr
+update_compile_order -fileset sources_1
+archive_project /home/jsy/Music/Logic_gate.xpr.zip -force -exclude_run_results -include_config_settings
