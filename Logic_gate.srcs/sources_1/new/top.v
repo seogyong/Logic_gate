@@ -3,7 +3,7 @@
 // Affiliation: Samsung Electronics
 // Email: seogyong86@gmail.com
 
-// Create Date: 2023/10/30
+// Create Date: 2023/10/31
 
 // Tool Versions: Vivado 2023.2
 // Project Name: Logic_Gate
